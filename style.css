@@ -72,12 +72,12 @@ body {
 .strategy {
   width: 100%;
   margin-bottom: 50px;
+  
 }
 .strategy h1 {
   font-size: 50px;
-  text-align: center;
   font-weight: bold;
-  margin-top: 2%;
+  margin-top: 0 auto;
 }
 
 #vission {
@@ -113,7 +113,7 @@ body {
 /* development start */
 .development {
   width: 100%;
-  background-image: url(/images/person/shape-1.png);
+  background-image: url(images/person/shape-1.png);
   background-position-x: left;
   background-position-y: center;
   background-repeat: no-repeat;
@@ -146,7 +146,7 @@ body {
 .community {
   width: 100%;
   padding-bottom: 5%;
-  background-image: url(/images/person/shape-1.png);
+  background-image: url(images/person/shape-1.png);
   background-position-x: right;
   background-position-y: bottom;
   background-repeat: no-repeat;
